@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 1. git clone https://github.com/iplexdev/Mern-Stack-Todo-List-App.git
 2. npm install && npm start
-3 . cd backend && npm install && npm start
+3. cd backend && npm install && npm start
 ```
 ## Available Scripts
 
