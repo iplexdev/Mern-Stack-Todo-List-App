@@ -6,6 +6,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![React Image Upload](editDemo.gif)
 # Delete
 ![React Image Upload](deleteDemo.gif)
+
+## Getting Started
+
+```
+1. git clone https://github.com/iplexdev/Mern-Stack-Todo-List-App.git
+2. npm install && npm start
+3 . cd backend && npm install && npm start
+```
 ## Available Scripts
 
 In the project directory, you can run:
