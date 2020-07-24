@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Create:
 ![React Image Upload](createDemo.gif)
 # Edit
-![React Image Upload](EditDemo.gif)
+![React Image Upload](editDemo.gif)
 # Delete
 ![React Image Upload](deleteDemo.gif)
 ## Available Scripts
