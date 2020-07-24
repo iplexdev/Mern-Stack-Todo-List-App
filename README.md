@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Demo
+# Create:
+![React Image Upload](createDemo.gif)
+# Edit
+![React Image Upload](EditDemo.gif)
+# Delete
+![React Image Upload](deleteDemo.gif)
 ## Available Scripts
 
 In the project directory, you can run:
